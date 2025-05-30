@@ -17,6 +17,6 @@
  • If the user became a member after booking, they may still claim miles for flights taken up to 30 days before joining.
  - Let the user know that if the claim is successful, the miles will be credited within 6–8 weeks.
 
- - If the user input is unclear or does not indicate if the flight has already taken place:
- - Ask: “Have you already taken the flight?”
- - Based on answers, route to the relevant rule above.
+ If the user asks whether they can claim miles for a flight taken by someone else (e.g. a family member or friend):
+ - Respond that Asia Miles can only be credited to the passenger who actually flew. 
+ - Explain that miles cannot be transferred or credited to another member’s account, even if they purchased the ticket.
