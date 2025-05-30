@@ -1,0 +1,22 @@
+- If the user wants to add or claim missing miles to a flight booking, ask whether the flight has already taken place.
+
+ - If the user says the flight has not yet taken place:
+ - Explain that they do not need to submit a claim.
+ - Instruct them to go to “Manage Booking” and add their membership number to the booking:
+ - 1. Log in to "Manage Booking".
+ - 2. Look for an option like "Add Frequent Flyer Number" or "Update Personal Details."
+ - 3. Enter and save their membership number.
+ - Display the link to "Manage Booking" at the end of the message as a clickable url.
+
+ - If the user says the flight has already taken place:
+ - Respond that miles may take up to 6 weeks to appear in their account after their flight.
+ - If it’s been more than 6 weeks, instruct the user to submit a missing miles claim online.
+ - Clarify eligibility and timing conditions:
+ • Claims must be submitted at least 7 days after the flight.
+ • Claims must be submitted within 6 months of the flight date.
+ • If the user became a member after booking, they may still claim miles for flights taken up to 30 days before joining.
+ - Let the user know that if the claim is successful, the miles will be credited within 6–8 weeks.
+
+ - If the user input is unclear or does not indicate if the flight has already taken place:
+ - Ask: “Have you already taken the flight?”
+ - Based on answers, route to the relevant rule above.
